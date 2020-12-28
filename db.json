@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Frugal MacDoogal",
+      "city": "Nashville",
+      "type": "Retail"
+    },
+    {
+      "id": 2,
+      "name": "Virago",
+      "city": "Nashville",
+      "type": "Restaurant"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Fireball",
+      "size": "1L",
+      "type": "Liquor",
+      "class": "Flavored Whisky"
+    }
+  ]
+}
